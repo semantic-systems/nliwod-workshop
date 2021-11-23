@@ -43,7 +43,7 @@ plugins:
 gems:
   - jekyll-paginate
 
-header_page_refs: ['home', 'program', 'organization', 'important-dates', 'call-for-papers']
+header_page_refs: ['home', 'program', 'organization', 'important-dates', 'call-for-papers', 'previous-workshops']
 
 
 #Others
