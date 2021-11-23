@@ -1,0 +1,31 @@
+---
+layout: default
+ref: home
+---
+
+
+---
+### Goal
+
+The NLIWOD workshop focuses on the advancement of Natural Language (NL) Interfaces to the Web of Data. The workshop has been organized four times within [ISWC](http://iswc2022.semanticweb.org/), with a focus on soliciting discussions on the development of question answering systems, chatbots, and other NL techniques. It is a yearly highlight for the active NL interface community centered around semantic technologies. 
+
+The NLIWOD workshop attracts people from academia as well as from industry to promote active collaboration and discussion, to extend the scope of currently addressed topics, and to foster the reuse of resources developed so far. We want to broaden the scope of this workshop series to dialogue systems and chatbots as increasingly important business intelligence factors.
+
+The primary goal of the NLIWOD workshop is to bring together experts on the use of natural-language interfaces (NLI) for answering questions, especially over the Web of Data.
+
+### Acknowledgements
+
+We would like to thank the following partners for their collaboration and support:
+
+We acknowledge the support of the German Federal Ministry of Education and Research (01IS18026A) by funding the competence center for Big Data and AI "ScaDS.AI Dresden/Leipzig) as well as the BMWi project SPEAKER (FKZ 01MK20011A).
+
+
+![Fraunhofer IAIS](https://github.githubassets.com/images/icons/emoji/octocat.png) ![DICE](https://github.githubassets.com/images/icons/emoji/octocat.png) ![SDA](https://github.githubassets.com/images/icons/emoji/octocat.png) ![LAMBDA](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+
+ 
+
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
