@@ -1,0 +1,27 @@
+# main links
+main:
+  - title: "Program"
+    url: program
+  - title: "Organization"
+    url: organization
+  - title: "Important Dates"
+    url: important-dates
+  - title: "Call for Papers"
+    url: call-for-papers
+  - title: "NLIWoD 2020"
+    url: /past-workshops/2020/home.html
+  - title: "NLIWoD 2019"
+    url: /past-workshops/2019/home.html
+  - title: "NLIWoD 2018"
+    url: /past-workshops/2018/home.html
+  - title: "NLIWoD 2017"
+    url: /past-workshops/2017/home.html
+  - title: "NLIWoD 2015"
+    url: /past-workshops/2015/Home.html
+  - title: "NLIWoD 2014"
+    url: /past-workshops/2014/Home.html
+
+
+
+
+
