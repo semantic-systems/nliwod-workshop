@@ -16,6 +16,4 @@ The primary goal of the NLIWOD workshop is to bring together experts on the use 
 
 ### Acknowledgements
 
-We would like to thank the following partners for their collaboration and support:
-
-We acknowledge the support of the German Federal Ministry of Education and Research (01IS18026A) by funding the competence center for Big Data and AI "ScaDS.AI Dresden/Leipzig) as well as the BMWi project SPEAKER (FKZ 01MK20011A).
+TBA
