@@ -2,6 +2,8 @@
 main:
   - title: "Program"
     url: program
+  - title: "Challenge"
+    url: challenge
   - title: "Organization"
     url: organization
   - title: "Important Dates"
