@@ -4,7 +4,7 @@ tagline:
 permalink: /call-for-papers.html
 ref: call-for-papers
 ---
-We invite paper submissions as well as participation in the 10th Question Answering over Linked Data (QALD) Challenge @ ESWC 2022.
+We invite research paper submissions as well as participation in the 10th Question Answering over Linked Data (QALD) Challenge @ ESWC 2022.
 
 While the amount of Linked Open Data (LOD) increases rapidly, it is still used mostly by Semantic Web experts. Two main obstacles make the billions of RDF triples already available hard to access for everyday Web users: the need to learn the query language SPARQL and the need to know the schemas underlying the datasets. Approaches to addressing these obstacles include graphical query interfaces, agent-based systems, and natural language interfaces. The NLIWoD workshop targets advances in the creation of natural language interfaces for the Web of Data as this category of interfaces is receiving an increasing interest due to their high expressive power and ease of use. For example, recent progress in speech recognition technologies (e.g., Siri, Alexa, Google Voice) demonstrates the usefulness of natural-language interfaces for accessing large amounts of (partly structured) data. The goal of this workshop is to bring together experts on the use of natural-language interfaces (NLI) for answering questions, especially over the Web of Data.
 
@@ -53,6 +53,17 @@ NLIWOD solicits the submission of original research articles in three types:
  * Demos and posters presentations (5 pages)
 
 All submissions must be in English and in formatted the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see Springer's Author Instructions. All articles are to be submitted via EasyChair https://easychair.org/conferences/?conf=nliwod7
+
+### Important dates
+
+Release of initial data	March 1st,  2022
+Research Paper submission deadline	March 30th, 2022
+Paper notification	April 30th, 2022
+Results submission deadline	May 15th, 2022
+Camera-ready version due	May 15, 2022
+Workshop at ESWC 	November May 29th - June 2nd, 2022
+
+
 
 ### Review and Publication
 
