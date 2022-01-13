@@ -78,4 +78,4 @@ We encourage HTML submissions but are currently bound to the ESWC proceedings de
 
 ## Contact Information
 
-In case of questions, please contact nliwod7@easychair.org 
+In case of questions, please email nliwod7@easychair.org 
