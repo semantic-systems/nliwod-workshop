@@ -53,7 +53,7 @@ NLIWOD solicits the submission of original research articles in three types:
 
 All submissions must be in English and in formatted the style of the Springer Publications 
 format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see 
-Springer's Author Instructions. All articles are to be submitted via  [EasyChair](https://easychair.org/conferences/?conf=nliwod7.
+Springer's Author Instructions. All articles are to be submitted via  [EasyChair](https://easychair.org/conferences/?conf=nliwod7).
 
 ### Important dates
 
