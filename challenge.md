@@ -5,9 +5,7 @@ permalink: /challenge.html
 ref: challenge
 ---
 
-# Challenge
-
-## QALD - 10
+### QALD - 10 Challenge
 
 This year's *Question Answering over Linked Data* challenge, better known as *QALD*, focuses on **Question Answering over Wikidata**. This will force QA systems to adapt to a new graph as QALD has been DBpedia-centric so far. We will have a novel sub-task on low-resource language QALD to drive accessibility in these languages forward. In particular, QA systems over multilingual KGs widen the access to the Web of Data to lay users. Thus, QA systems increase the accessibility of the Web in general.
 
