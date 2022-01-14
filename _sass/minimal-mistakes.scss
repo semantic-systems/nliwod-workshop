@@ -4,25 +4,6 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
-@import "minimal-mistakes";
-
-html {
-  font-size: 13px; // change to whatever
-
-  @include breakpoint($medium) {
-    font-size: 13px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 18px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 20px; // change to whatever
-  }
-}
-
-
 /* Variables */
 @import "minimal-mistakes/variables";
 
