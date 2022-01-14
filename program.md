@@ -5,7 +5,7 @@ permalink: /program.html
 ref: program
 ---
 
-# Online Workshop
+### Online Workshop
 
 The NLIWoD 2022 workshop is going to happen as an online event. The final schedule will be announced beforehand.
 
