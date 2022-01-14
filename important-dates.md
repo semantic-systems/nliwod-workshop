@@ -17,4 +17,4 @@ Results submission deadline May 15th, 2022
 
 Camera-ready version due May 15, 2022
 
-Workshop at ESWC November May 29th - June 2nd, 2022
+Workshop at ESWC May 29th - June 2nd, 2022
