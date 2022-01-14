@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "Program"
-    url: program
-  - title: "Challenge"
-    url: challenge
-  - title: "Organization"
-    url: organization
-  - title: "Important Dates"
-    url: important-dates
   - title: "Call for Papers"
     url: call-for-papers
+   - title: "Challenge"
+    url: challenge
+   - title: "Important Dates"
+    url: important-dates
+  - title: "Program"
+    url: program
+  - title: "Organization"
+    url: organization
   - title: "NLIWoD 2020"
     url: /past-workshops/2020/home.html
   - title: "NLIWoD 2019"
