@@ -1,6 +1,5 @@
 ---
 title: Call for Papers and Systems
-tagline: 
 permalink: /call-for-papers.html
 ref: call-for-papers
 ---
@@ -52,7 +51,9 @@ NLIWOD solicits the submission of original research articles in three types:
 
  * Demos and posters presentations (5 pages)
 
-All submissions must be in English and in formatted the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see Springer's Author Instructions. All articles are to be submitted via EasyChair https://easychair.org/conferences/?conf=nliwod7
+All submissions must be in English and in formatted the style of the Springer Publications 
+format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see 
+Springer's Author Instructions. All articles are to be submitted via  [EasyChair](https://easychair.org/conferences/?conf=nliwod7.
 
 ### Important dates
 
@@ -66,7 +67,7 @@ Results submission deadline	May 15th, 2022
 
 Camera-ready version due	May 15, 2022
 
-Workshop at ESWC 	November May 29th - June 2nd, 2022
+Workshop at ESWC	November May 29th - June 2nd, 2022
 
 
 
@@ -74,7 +75,10 @@ Workshop at ESWC 	November May 29th - June 2nd, 2022
 
 All submissions will be peer-reviewed by the Program Committee of the workshop, the submissions do not need to be anonymous. The accepted contributions will be published in the proceedings of the workshop. Each **accepted paper and each system** needs to be presented by one of the authors at the workshop. 
 
-We encourage HTML submissions but are currently bound to the ESWC proceedings decision, which is still open and thus demands a PDF of your HTML page as well which needs to be formatted according to LNCS. For useful information about HTML submissions, please see https://2022.eswc-conferences.org/call-for-papers/ .
+We encourage HTML submissions but are currently bound to the ESWC proceedings decision, which is 
+still open and thus demands a PDF of your HTML page as well which needs to be formatted 
+according to LNCS. For useful information about HTML submissions, please see [here](https://2022.
+eswc-conferences.org/call-for-papers/).
 
 ## Contact Information
 
