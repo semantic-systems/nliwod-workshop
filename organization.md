@@ -20,3 +20,18 @@ Prof. Chris Biemann obtained his doctorate in Computer Science / Natural Languag
 
 #### [Axel-Cyrille Ngonga Ngomo](http://dice-research.org) (M) 
 Prof. Axel Ngonga heads the DICE and AKSW research groups in Paderborn and Leipzig, where he works on topics such as Information Extraction, Question Answering and Keyword-Based Search with a strong focus on structured data. Axel has co-organized the QALD workshops as well as the BioASQ challenges. He has participated in the creation of the corresponding benchmark datasets and also co-organized the OKBQA Hackathon. He has lead the HOBBIT H2020 project on benchmarking Linked Data as well as the DIESEL and QAMEL projects on distributed search and question answering on mobile devices. Axel has served on the senior program/organizing committees of (Semantic)Web and AI confer-ences including ESWC, ISWC, WWW, LREC, and AAAI.
+
+#### [Cedric Möller](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/cedric-moeller.html) (M)
+M.Sc. Cedric Möller is a PhD candidate in the Semantic Systems research group University of Hamburg.
+
+#### [Longquan Jiang](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/longquan-jiang.html) (M)
+M.Sc. Longquan Jiang is a PhD candidate in the Semantic Systems research group University of Hamburg.
+
+#### [Angelie Kraft](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/angelie-kraft.html) (F)
+M.Sc. Angelie Kraft is a PhD candidate in the Semantic Systems research group University of Hamburg.
+
+#### [Junbo Huang](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/junbo-huang.html) (M)
+M.Sc. Junbo Huang is a PhD candidate in the Semantic Systems research group University of Hamburg.
+
+#### [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F)
+M.Sc. Xi Yan is a PhD candidate in the Semantic Systems research group University of Hamburg.
