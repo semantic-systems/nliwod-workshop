@@ -2,9 +2,9 @@
 main:
   - title: "Call for Papers"
     url: call-for-papers
-   - title: "Challenge"
+  - title: "Challenge"
     url: challenge
-   - title: "Important Dates"
+  - title: "Important Dates"
     url: important-dates
   - title: "Program"
     url: program
