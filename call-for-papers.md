@@ -11,7 +11,8 @@ A part of NLIWOD will be the Question Answering over Linked Data challenge, bett
 
 We also introduce a **new task on comparative QA**, where the goal is to efficiently answer factual multilingual comparative questions using knowledge basesComparative QA has a wide range of use cases, such as academic search engines or e-commerce. 
 
-Topics of interest include but are not limited to:
+#### Topics of interest include but are not limited to:
+
 * NEW focus! Combining Deep Learning and Knowledge Graphs for NL interfaces
 * NEW focus! NL interfaces for the whole LOD cloud
 * NEW focus! Industrial NL interfaces
