@@ -16,7 +16,7 @@ Prof. [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-
 
 Prof. [Axel-Cyrille Ngonga Ngomo](http://dice-research.org) (M) heads the DICE and AKSW research groups in Paderborn and Leipzig, where he works on topics such as Information Extraction, Question Answering and Keyword-Based Search with a strong focus on structured data. Axel has co-organized the QALD workshops as well as the BioASQ challenges. He has participated in the creation of the corresponding benchmark datasets and also co-organized the OKBQA Hackathon. He has lead the HOBBIT H2020 project on benchmarking Linked Data as well as the DIESEL and QAMEL projects on distributed search and question answering on mobile devices. Axel has served on the senior program/organizing committees of (Semantic)Web and AI confer-ences including ESWC, ISWC, WWW, LREC, and AAAI.
 
-Dr. [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko) (M; Assistant Professor for NLP at Skolkovo Institute of Science and Technology)
+Dr. [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko) (M; Assistant Professor for NLP at [Skolkovo Institute of Science and Technology](https://scholar.google.com/citations?view_op=view_org&hl=en&org=4613450313967235690))
 
 Dr. [Seid Yimam Muhie](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam.html) (M; Postdoctoral researcher, Language Technology group, Hamburg)
 
