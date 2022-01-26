@@ -18,7 +18,7 @@ Prof. [Axel-Cyrille Ngonga Ngomo](http://dice-research.org) (M) heads the DICE a
 
 Dr. [Alexander Panchenko](https://faculty.skoltech.ru/people/alexanderpanchenko) (M; Assistant Professor for NLP at Skolkovo Institute of Science and Technology)
 
-Dr. [Seid Yimam Muhie](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam.html) (M; PostDoc, Language Technology group, Hamburg)
+Dr. [Seid Yimam Muhie](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam.html) (M; Postdoctoral researcher, Language Technology group, Hamburg)
 
 M.Sc. [Debayan Banarjee](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html) (M; Ph.D. student, Language Technology, Hamburg) 
 
