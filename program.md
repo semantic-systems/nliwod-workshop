@@ -7,7 +7,7 @@ ref: program
 
 ### Online Workshop
 
-The NLIWoD 2022 workshop is going to happen as an online event. The final schedule will be announced beforehand.
+The NLIWoD7 workshop is going to happen as an online event. The final schedule will be announced beforehand.
 
 **Long & short research paper presentations:**
 The largest portion of the half-day workshop will consist of oral presentations of peer-reviewed papers. 
