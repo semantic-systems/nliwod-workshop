@@ -10,17 +10,17 @@ main:
     url: program
   - title: "Organization"
     url: organization
-  - title: "NLIWoD 2020"
+  - title: "NLIWoD6"
     url: /past-workshops/2020/home.html
-  - title: "NLIWoD 2019"
+  - title: "NLIWoD5"
     url: /past-workshops/2019/home.html
-  - title: "NLIWoD 2018"
+  - title: "NLIWoD4"
     url: /past-workshops/2018/home.html
-  - title: "NLIWoD 2017"
+  - title: "NLIWoD3"
     url: /past-workshops/2017/home.html
-  - title: "NLIWoD 2015"
+  - title: "NLIWoD2"
     url: /past-workshops/2015/Home.html
-  - title: "NLIWoD 2014"
+  - title: "NLIWoD1"
     url: /past-workshops/2014/Home.html
 
 
