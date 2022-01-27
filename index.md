@@ -3,7 +3,7 @@ header:
   actions:
     - label: "Co-located with the 2022 European Semantic Web Conference (ESWC)"
       url: "https://2022.eswc-conferences.org/"
-title: NLIWoD 2022 Workshop
+title: The 7th Natural Language Interfaces for the Web of Data (NLIWoD) Workshop
 ---
 
 
