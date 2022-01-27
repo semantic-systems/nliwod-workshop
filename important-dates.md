@@ -17,4 +17,4 @@ ref: important-dates
 
 * Camera-ready version due -- May 15, 2022
 
-* Workshop at ESWC -- May 29th - June 2nd, 2022
+* Workshop at ESWC -- May 29th, 2022 (09:00AM-12:30PM)
