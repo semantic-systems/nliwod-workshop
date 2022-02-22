@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "The 7th Natural Language Interfaces for the Web of Data (NLIWoD) Workshop"
 title_separator          : "-"
-subtitle                 : "Online, May 29th, 2022" # site tagline that appears below site title in masthead
+subtitle                 : "Physical, May 29th, 2022" # site tagline that appears below site title in masthead
 name                     : #"Your Name"
 description              :
 url                      : "https://semantic-systems.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
