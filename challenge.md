@@ -20,6 +20,7 @@ Given the diversity of languages used on the Web, there is an increasing need to
 The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The evaluation, i.e., train and test, dataset are based on 558 [QALD-9-plus](https://github.com/Perevalov/qald_9_plus) questions. This years test set will compass more 500 novel, manually created questions to satisfy also data-hungry algorithms. The questions vary with respect to their complexity and each is annotated with a manually specified SPARQL query and answers. The evaluation will be based on the established QALD-F1-measure.
 
 ### How to participate:
+* Write a registration email to the organisers indicating your will to participate
 * A file-based submission via a novel, simplified web-interface (TBA) for [GERBIL QA](https://gerbil-qa.aksw.org/gerbil) -> send us your final run via email to (TBA)
 * Participants must submit a 4-page paper describing the approach via the main [easychair instance](https://easychair.org/conferences/?conf=nliwod7) until the conference 
 
@@ -27,6 +28,8 @@ The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The ev
 
 ### Timeline:
 * Release of initial data – March 1st, 2022
+* Submission system opens April 19th, 2022
+* Results submission deadline – May 15th, 2022
 * Results submission deadline – May 15th, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
 
