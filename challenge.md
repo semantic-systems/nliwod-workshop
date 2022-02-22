@@ -29,8 +29,7 @@ The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The ev
 ### Timeline:
 * Release of initial data – March 1st, 2022
 * Submission system opens April 19th, 2022
-* Results submission deadline – May 15th, 2022
-* Results submission deadline – May 15th, 2022
+* Submission system closes May 15th, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
 
 ## Task 2: Multilingual Comparative Question Answering Using Knowledge Bases
