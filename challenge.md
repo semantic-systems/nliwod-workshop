@@ -9,7 +9,7 @@ ref: challenge
 
 This year's Question Answering over Linked Data challenge has **2 tasks** and focuses on **Question Answering over Wikidata**. This will force QA systems to adapt to a new graph as QALD has been DBpedia-centric so far. 
 
-For QALD-10 task 1, we will have a novel sub-task on **low-resource language QALD (Russian, Chinese, German, English) over Wikidata** to drive accessibility in these languages forward. In particular, QA systems over multilingual KGs widen the access to the Web of Data to lay users. Thus, QA systems increase the accessibility of the Web in general.
+For QALD-10 task 1, we will have a novel sub-task on **multilingual QALD (Russian, Chinese, German, English) over Wikidata** to drive accessibility in these languages forward. In particular, QA systems over multilingual KGs widen the access to the Web of Data to lay users. Thus, QA systems increase the accessibility of the Web in general.
 
 For QALD-10 task 2, we introduce a **new task on comparative QA**, where the goal is to efficiently answer factual multilingual comparative questions using knowledge bases. Comparative QA has a wide range of use cases, such as academic search engines or e-commerce.
 
