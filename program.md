@@ -5,9 +5,9 @@ permalink: /program.html
 ref: program
 ---
 
-### Online Workshop
+### Physical Workshop
 
-The NLIWoD7 workshop is going to happen as an online event. The final schedule will be announced beforehand.
+The NLIWoD7 workshop is going to happen as a physical event. The final schedule will be announced beforehand. See https://2022.eswc-conferences.org/covid-health-and-safety/ for more information.
 
 **Long & short research paper presentations:**
 The largest portion of the half-day workshop will consist of oral presentations of peer-reviewed papers. 

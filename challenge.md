@@ -5,19 +5,36 @@ permalink: /challenge.html
 ref: challenge
 ---
 
-### QALD - 10 Challenge
+# 10th Question Answering over Linked Data (QALD) Challenge @ ESWC 2022
 
-This year's *Question Answering over Linked Data* challenge, better known as *QALD*, focuses on **Question Answering over Wikidata**. This will force QA systems to adapt to a new graph as QALD has been DBpedia-centric so far. We will have a novel sub-task on low-resource language QALD to drive accessibility in these languages forward. In particular, QA systems over multilingual KGs widen the access to the Web of Data to lay users. Thus, QA systems increase the accessibility of the Web in general.
+This year's Question Answering over Linked Data challenge has **2 tasks** and focuses on **Question Answering over Wikidata**. This will force QA systems to adapt to a new graph as QALD has been DBpedia-centric so far. 
 
-We also introduce a **new task on comparative QA**, where the goal is to efficiently answer factual multilingual comparative questions using knowledge basesComparative QA has a wide range of use cases, such as academic search engines or e-commerce.
+For QALD-10 task 1, we will have a novel sub-task on **multilingual QALD (Russian, Chinese, German, English) over Wikidata** to drive accessibility in these languages forward. In particular, QA systems over multilingual KGs widen the access to the Web of Data to lay users. Thus, QA systems increase the accessibility of the Web in general.
 
-### Task 1: Multilingual Question Answering over Knowledge Graphs
+For QALD-10 task 2, we introduce a **new task on comparative QA**, where the goal is to efficiently answer factual multilingual comparative questions using knowledge bases. Comparative QA has a wide range of use cases, such as academic search engines or e-commerce.
+
+## Task 1: Multilingual Question Answering over Knowledge Graphs
 
 Given the diversity of languages used on the Web, there is an increasing need to facilitate multilingual access to semantic data. The core task of QALD is thus to retrieve answers from an RDF data repository given an information need expressed in a variety of natural languages.
 
-The underlying RDF dataset is a fixed Wikidata dump with meta-data. The evaluation, i.e. train and test, dataset are based on roughly 450 QALD-9 questions but extended by more than 100 % to satisfy also data-hungry algorithms. The questions vary with respect to their complexity and each is annotated with a manually specified SPARQL query and answers. The evaluation will be based on the established QALD-F1-measure.
+The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The articipants will have to develop their systems using 558 [QALD-9-plus (https://github.com/Perevalov/qald_9_plus) questions for training and local testing.
 
-### Task 2: Multilingual Comparative Question Answering Using Knowledge Bases
+This years private test set (the one that will be used for the building the leaderboard) will contain more than 500 novel, manually created questions to satisfy also data-hungry algorithms. The questions vary with respect to their complexity and each is annotated with a manually specified SPARQL query and answers. The evaluation will be based on the established QALD-F1-measure.
+
+### How to participate:
+* Write a registration email to the organisers indicating your will to participate
+* A file-based submission via a novel, simplified web-interface (TBA) for [GERBIL QA](https://gerbil-qa.aksw.org/gerbil) -> send us your final run via email to (TBA)
+* Participants must submit a 4-page paper describing the approach via the main [easychair instance](https://easychair.org/conferences/?conf=nliwod7) until the conference 
+
+* Participants are encouraged to provide source code (that can be executed / started as a single system) or/and an online demo
+
+### Timeline:
+* Release of initial data – March 1st, 2022
+* Submission system opens April 19th, 2022
+* Submission system closes May 15th, 2022
+* Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
+
+## Task 2: Multilingual Comparative Question Answering Using Knowledge Bases
 
 The new task introduced this year will use a public data source [Wikidata](https://www.wikidata.org/) as a target repository for answering comparative questions. Question answering platforms such as Yahoo! Answers or Quora always contained questions that ask other humans for help when comparing two or more options. Since nowadays more and more people also “talk” to their de-vices, such comparative questions are also part of the query stream that major search engines receive. Although leading Web search engines index a plethora of information, they do not perform well on cQA information needs. 
 
