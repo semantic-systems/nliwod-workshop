@@ -17,7 +17,7 @@ For QALD-10 task 2, we introduce a **new task on comparative QA**, where the goa
 
 Given the diversity of languages used on the Web, there is an increasing need to facilitate multilingual access to semantic data. The core task of QALD is thus to retrieve answers from an RDF data repository given an information need expressed in a variety of natural languages.
 
-The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The evaluation, i.e., train and test, dataset are based on 558 [QALD-9-plus](https://github.com/Perevalov/qald_9_plus) questions. This years test set will compass more 500 novel, manually created questions to satisfy also data-hungry algorithms. The questions vary with respect to their complexity and each is annotated with a manually specified SPARQL query and answers. The evaluation will be based on the established QALD-F1-measure.
+The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The evaluation, i.e., train and test, dataset are based on 558 [QALD-9-plus](https://github.com/Perevalov/qald_9_plus) questions. This years private test set (the one that will be used for the building the leaderboard) will contain more than 500 novel, manually created questions to satisfy also data-hungry algorithms. The questions vary with respect to their complexity and each is annotated with a manually specified SPARQL query and answers. The evaluation will be based on the established QALD-F1-measure.
 
 ### How to participate:
 * Write a registration email to the organisers indicating your will to participate
