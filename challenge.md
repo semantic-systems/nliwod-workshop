@@ -28,14 +28,15 @@ This years private test set (the one that will be used for the building the lead
 
 * Participants are encouraged to provide source code (that can be executed / started as a single system) or/and an online demo
 
-### Timeline:
+
+## Task 2: Multilingual Comparative Question Answering Using Knowledge Bases
+
+The new task introduced this year will use a public data source [Wikidata](https://www.wikidata.org/) as a target repository for answering comparative questions. Question answering platforms such as Yahoo! Answers or Quora always contained questions that ask other humans for help when comparing two or more options. Since nowadays more and more people also “talk” to their devices, such comparative questions are also part of the query stream that major search engines receive. Although leading Web search engines index a plethora of information, they do not perform well on cQA information needs. 
+
+The goal of this task is to directly combine the available facts, opinions using structured knowledge bases by analyzing Wikidata and DBpedia as additional sources of (structured) information. The training data includes 100 open-domain factual comparative questions per language in multiple low-resource languages (Amharic, Bengali and Hindi) as well as high-resource languages (Arabic, French, German, and English). The questions originally formulated should be answered using both DBpedia and Wikidata. Therefore, the participants’ systems will have to deal with a different data representation structure. Our main addition here is that the data is composed of 50 questions that are represented in 7 languages, mostly low-resource languages in order to evaluate how generic the approaches are and which knowledge base is more geared towards multilinguality. The remaining 50 queries per language are language and culture specific, to allow the development of methods that are geared towards solvign cQA for low-resource setups. 
+
+## Timeline:
 * Release of initial data – March 1st, 2022
 * Submission system opens April 19th, 2022
 * Submission system closes May 15th, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
-
-## Task 2: Multilingual Comparative Question Answering Using Knowledge Bases
-
-The new task introduced this year will use a public data source [Wikidata](https://www.wikidata.org/) as a target repository for answering comparative questions. Question answering platforms such as Yahoo! Answers or Quora always contained questions that ask other humans for help when comparing two or more options. Since nowadays more and more people also “talk” to their de-vices, such comparative questions are also part of the query stream that major search engines receive. Although leading Web search engines index a plethora of information, they do not perform well on cQA information needs. 
-
-The goal of this task is to directly combine the available facts, opinions using structured knowledge bases by analyzing Wikidata and DBpedia as additional sources of (structured) information. The training data includes 100 open-domain factual comparative questionsin multiple low-resource languages (Amharic, Bengali and Hindi) as well as high-resource languages (Arabic, French, German, and English). The questions originally formulated should be answered using both DBpedia and Wikidata. Therefore, the participants’ systems will have to deal with a different data representation structure. Our main addition here is that the questions are represented in 9 languages, mostly low-resource languages. This task will help to evaluate how generic the approaches are and which knowledge base is more geared towards multilinguality. 
