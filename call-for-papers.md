@@ -3,7 +3,7 @@ title: Call for Papers and Systems
 permalink: /call-for-papers.html
 ref: call-for-papers
 ---
-We invite research paper submissions as well as participation in the 10th Question Answering over Linked Data (QALD) Challenge @ ESWC 2022.
+We invite research paper submissions to the 7th Natural Language Interfaces for the Web of Data (NLIWoD) Workshop @ ESWC 2022.
 
 While the amount of Linked Open Data (LOD) increases rapidly, it is still used mostly by Semantic Web experts. Two main obstacles make the billions of RDF triples already available hard to access for everyday Web users: the need to learn the query language SPARQL and the need to know the schemas underlying the datasets. Approaches to addressing these obstacles include graphical query interfaces, agent-based systems, and natural language interfaces. The 7th NLIWoD workshop targets advances in the creation of natural language interfaces for the Web of Data as this category of interfaces is receiving an increasing interest due to their high expressive power and ease of use. For example, recent progress in speech recognition technologies (e.g., Siri, Alexa, Google Voice) demonstrates the usefulness of natural-language interfaces for accessing large amounts of (partly structured) data. The goal of this workshop is to bring together experts on the use of natural-language interfaces (NLI) for answering questions, especially over the Web of Data.
 
@@ -50,7 +50,7 @@ NLIWOD solicits the submission of original research articles in three types:
 
   - An interesting application case.
 
- * Demos and posters presentations (5 pages)
+ * Demos, posters and QALD system presentations (5 pages)
 
 All submissions must be in English and in formatted the style of the Springer Publications 
 format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see 
