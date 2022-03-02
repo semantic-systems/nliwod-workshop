@@ -30,4 +30,4 @@ M.Sc. [Angelie Kraft](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/ange
 
 M.Sc. [Junbo Huang](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/junbo-huang.html) (M; Ph.D. student, Semantic Systems, Hamburg University)
 
-M.Sc. [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
+MA.   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
