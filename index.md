@@ -21,3 +21,15 @@ The importance of how typical Web users can access the body of knowledge on the 
 The key challenge is to translate the users' information needs into a form such that they can be evaluated using standard Semantic Web query processing and inference techniques. Over the past years, a range of approaches has been developed to address this challenge, showing significant advances towards answering natural language questions with respect to large, heterogeneous sets of structured data. Many systems are deployed in industry and academia but their inner workings, as well as advantages and disadvantages, are not well known. The topics of this workshop and challenge are thus of great importance and interest to the Semantic Web community. 
 
 By attending a classical workshop combined with a challenge composed of several sub-tasks, participants will experience a versatile range of academic approaches and applications through the multi-faceted workshop format. We aim to bridge the gap between academia and industry to attract junior as well as senior researchers from both worlds leading to a memorable experience.
+
+### Unified Timeline:
+
+* <del>Release of initial data - March 1st, 2022</del>
+* Research Paper submission deadline - March 30th, 2022
+* Deadline for registration - April 19th, 2022 
+* Submission system opens - April 19th, 2022
+* Paper notification - April 30th, 2022
+* Submission system closes - May 15th, 2022
+* Paper camera-ready version due - May 15, 2022
+* Challenge Paper submission deadline - May 28th, 2022
+* Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
