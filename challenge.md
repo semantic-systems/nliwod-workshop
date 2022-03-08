@@ -38,8 +38,9 @@ The new task introduced this year will use a public data source [Wikidata](https
 The goal of this task is to directly combine the available facts, opinions using structured knowledge bases by analyzing Wikidata and DBpedia as additional sources of (structured) information. The training data includes 100 open-domain factual comparative questions per language in multiple low-resource languages (Amharic, Bengali and Hindi) as well as high-resource languages (Arabic, French, German, and English). The questions originally formulated should be answered using both DBpedia and Wikidata. Therefore, the participants’ systems will have to deal with a different data representation structure. Our main addition here is that the data is composed of 50 questions that are represented in 7 languages, mostly low-resource languages in order to evaluate how generic the approaches are and which knowledge base is more geared towards multilinguality. The remaining 50 queries per language are language and culture specific, to allow the development of methods that are geared towards solvign cQA for low-resource setups. 
 
 ## Timeline:
-* Release of initial data – March 1st, 2022
+* Release of initial data – March 1st, 2022 (see [QALD-9-plus](https://github.com/Perevalov/qald_9_plus))
 * Deadline for registration April 19th, 2022 
-* Submission system opens April 19th, 2022
-* Submission system closes May 15th, 2022
+* System submission system opens April 19th, 2022
+* System submission system closes May 15th, 2022
+* Challenge paper submission deadline - May 28th, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
