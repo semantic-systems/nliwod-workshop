@@ -25,11 +25,11 @@ By attending a classical workshop combined with a challenge composed of several 
 ### Unified Timeline:
 
 * <del>Release of initial data - March 1st, 2022</del>
-* Research Paper submission deadline - March 30th, 2022
+* Research paper submission deadline - March 30th, 2022
 * Deadline for registration - April 19th, 2022 
-* Submission system opens - April 19th, 2022
+* System submission system opens April 19th, 2022
 * Paper notification - April 30th, 2022
-* Submission system closes - May 15th, 2022
+* System submission system closes May 15th, 2022
 * Paper camera-ready version due - May 15, 2022
-* Challenge Paper submission deadline - May 28th, 2022
+* Challenge paper submission deadline - May 28th, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
