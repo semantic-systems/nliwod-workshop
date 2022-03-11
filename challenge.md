@@ -37,6 +37,10 @@ The new task introduced this year will use a public data source [Wikidata](https
 
 The goal of this task is to directly combine the available facts, opinions using structured knowledge bases by analyzing Wikidata and DBpedia as additional sources of (structured) information. The training data includes 100 open-domain factual comparative questions per language in multiple low-resource languages (Amharic, Bengali and Hindi) as well as high-resource languages (Arabic, French, German, and English). The questions originally formulated should be answered using both DBpedia and Wikidata. Therefore, the participants’ systems will have to deal with a different data representation structure. Our main addition here is that the data is composed of 50 questions that are represented in 7 languages, mostly low-resource languages in order to evaluate how generic the approaches are and which knowledge base is more geared towards multilinguality. The remaining 50 queries per language are language and culture specific, to allow the development of methods that are geared towards solvign cQA for low-resource setups. 
 
+A dev data is represented here: https://docs.google.com/spreadsheets/d/15Du-C6VtvK2A48rZEjdV-VdSNkS9vIWwoSLNSzLPWWg/edit?usp=sharing 
+In this task, given a natural language query such as: Who is richer, Bill Gates or Jeff Bezos?, the participant should find the entity related to the first object Bill Gate", the entity related to the second Object: "Jeff Bezos", as well as the entity that helps answer the query (in this case NEt Worth). The participants should ideally also output 1 or 2 for indicating if the query is in favor for Object 1 or Object 2, or 0 if they are equal. 
+
+
 ## Timeline:
 * Release of initial data – March 1st, 2022 (see [QALD-9-plus](https://github.com/Perevalov/qald_9_plus))
 * Deadline for registration April 19th, 2022 
