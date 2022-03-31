@@ -25,7 +25,7 @@ By attending a classical workshop combined with a challenge composed of several 
 ### Unified Timeline:
 
 * <del>Release of initial data - March 1st, 2022</del>
-* Research paper submission deadline - March 30th, 2022
+* Research paper submission deadline - April 6th, 2022
 * Deadline for registration - April 19th, 2022 
 * System submission system opens April 19th, 2022
 * Paper notification - April 30th, 2022
