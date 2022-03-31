@@ -9,7 +9,7 @@ ref: important-dates
 
 * Release of initial data -- March 1st, 2022
 
-* Research Paper submission deadline -- March 30th, 2022
+* Research Paper submission deadline -- April 6th, 2022
 
 * Paper notification -- April 30th, 2022
 
