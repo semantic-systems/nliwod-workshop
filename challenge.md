@@ -24,11 +24,12 @@ The underlying RDF dataset is a fixed Wikidata dump with meta-data (TBA). The ar
 This years private test set (the one that will be used for the building the leaderboard) will contain more than 500 novel, manually created questions to satisfy also data-hungry algorithms. The questions vary with respect to their complexity and each is annotated with a manually specified SPARQL query and answers. The evaluation will be based on the established QALD-F1-measure.
 
 ### How to participate:
-* Write a registration using the form https://forms.gle/pMHfXK3ZaZW4Hoc98 
-* A file-based submission via a novel, simplified web-interface (TBA) for [GERBIL QA](https://gerbil-qa.aksw.org/gerbil) -> send us your final run via email to (TBA)
-* Participants must submit a 4-page paper describing the approach via the main [easychair instance](https://easychair.org/conferences/?conf=nliwod7) until the conference 
-
-* Participants are encouraged to provide source code (that can be executed / started as a single system) or/and an online demo
+<del>* Write a registration using the form https://forms.gle/pMHfXK3ZaZW4Hoc98 </del>
+* A file-based submission via a novel, simplified web-interface (https://gerbil-qa.aksw.org/gerbil/config-qald) for [GERBIL QA](https://gerbil-qa.aksw.org/gerbil). You can try it out as often as you like. 
+* Send us your final run via email to [xi.yan@uni-hamburg.de](<mailto:xi.yan@uni-hamburg.de>)
+* Participants must submit a 4-page paper describing the approach via the main [easychair instance](https://easychair.org/conferences/?conf=nliwod7) until  27th May 2022 or their systems will be rejected.
+* We will award winning systems at the conference.
+* Participants are encouraged to provide source code (that can be executed / started as a single system) or/and show an online demo at the workshop! Please inform Xi Yan. 
 
 
 ## Task 2: Multilingual Comparative Question Answering Using Knowledge Bases
