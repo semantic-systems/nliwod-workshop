@@ -13,8 +13,6 @@ ref: important-dates
 
 * Paper notification -- <del> April 30th, 2022</del> May 8th, 2022
 
-* Results submission deadline -- May 15th, 2022
-
 * Camera-ready version due -- May 15, 2022
 
 * Workshop at ESWC -- May 29th, 2022 (09:00AM-12:30PM)
