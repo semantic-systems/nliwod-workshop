@@ -26,7 +26,7 @@ This years private test set (the one that will be used for the building the lead
 ### How to participate:
 <del>* Write a registration using the form https://forms.gle/pMHfXK3ZaZW4Hoc98 </del>
 * A file-based submission via a novel, simplified web-interface: https://gerbil-qa.aksw.org/gerbil/config-qald. This is based on [GERBIL QA](https://gerbil-qa.aksw.org/gerbil). You can try it out as often as you like. 
-* The endpoint is based on **TBA** and can be found under http://sems-vm-1.informatik.uni-hamburg.de:443/api/endpoint/sparql
+* The endpoint is based on https://hub.docker.com/r/qacompany/hdt-query-service and can be found under http://sems-vm-1.informatik.uni-hamburg.de:443/api/endpoint/sparql
 * The test data can be found under https://github.com/KGQA/QALD_10
 * Send us your final run via email to [xi.yan@uni-hamburg.de](<mailto:xi.yan@uni-hamburg.de>)
 * Participants must submit a 4-page paper describing the approach via the main [easychair instance](https://easychair.org/conferences/?conf=nliwod7) until  27th May 2022 or their systems will be rejected.
