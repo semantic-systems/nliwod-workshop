@@ -58,10 +58,7 @@ Springer's Author Instructions. All articles are to be submitted via  [EasyChair
 
 ### Important dates
 
-* <del>Research paper submission deadline - April 6th, 2022</del>
-* Paper notification -- <del> April 30th, 2022</del> May 8th, 2022
-* Paper camera-ready version due - May 15, 2022
-* Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) 
+See [https://www.nliwod.org/important-dates](https://www.nliwod.org/important-dates)
 
 ### Review and Publication
 
