@@ -45,9 +45,5 @@ In this task, given a natural language query such as: Who is richer, Bill Gates 
 
 
 ## Timeline:
-<del> * Release of initial data – March 1st, 2022 (see [QALD-9-plus](https://github.com/Perevalov/qald_9_plus)) </del>
-  <del> * Deadline for registration April 19th, 2022 </del>
-* System submission system opens April 19th, 2022
-* System submission system closes May 20th, 2022 midnight AoE
-* Challenge paper submission deadline - May 28th, 2022
-* Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
+See [https://www.nliwod.org/important-dates](https://www.nliwod.org/important-dates)
+
