@@ -11,7 +11,7 @@ ref: important-dates
 
 * <del>Research paper submission deadline - April 6th, 2022
 * Paper notification -- <del> April 30th, 2022</del> May 8th, 2022
-* Paper camera-ready version due - May 15, 2022
+* Paper camera-ready version due - June 15, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
   
 ### QALD challenge
@@ -22,3 +22,4 @@ ref: important-dates
 * System submission system closes May 20th, 2022  midnight AoE
 * Challenge paper submission deadline - May 28th, 2022
 * Workshop at ESWC – May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
+* Paper camera-ready version due - June 15, 2022
