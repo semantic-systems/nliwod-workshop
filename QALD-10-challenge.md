@@ -1,7 +1,7 @@
 ---
 title: QALD Challenge
 tagline: 
-permalink: /challenge.html
+permalink: /QALD-10-challenge.md.html
 ref: challenge
 ---
 
