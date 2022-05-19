@@ -22,6 +22,12 @@ The key challenge is to translate the users' information needs into a form such 
 
 By attending a classical workshop combined with a challenge composed of several sub-tasks, participants will experience a versatile range of academic approaches and applications through the multi-faceted workshop format. We aim to bridge the gap between academia and industry to attract junior as well as senior researchers from both worlds leading to a memorable experience.
 
+### Supported by
+
+![image](https://user-images.githubusercontent.com/4354740/169319292-affe4a55-a015-4e26-b439-3fcacee9b70e.png) The authors acknowledge the financial support by the Federal Ministry for Economic Affairs and Energy of Germany in the project CoyPu (project number 01MK21007[G]). [CoyPu](https://coypu.org/)
+
+![image](https://user-images.githubusercontent.com/4354740/169320617-210307ad-78c4-4896-8a24-49212d37b98c.png) [https://www.nfdi4datascience.de/](NFDI4DataScience)
+
 ### Unified Timeline:
 
 See [https://www.nliwod.org/important-dates](https://www.nliwod.org/important-dates)
