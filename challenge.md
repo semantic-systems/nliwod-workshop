@@ -1,5 +1,5 @@
 ---
-title: QALD-10 Challenge
+title: QALD Challenge
 tagline: 
 permalink: /challenge.html
 ref: challenge
