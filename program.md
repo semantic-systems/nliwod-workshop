@@ -31,5 +31,4 @@ The largest portion of the half-day workshop will consist of oral presentations 
 | 11:45  |                                         TBA                                         | QALD system 1                                                                       |
 | 11:55  |                                         TBA                                         | QALD system 2                                                                       |
 | 12:05  |                                         TBA                                         | QALD system 3                                                                       |
-| 12:15  |                                         TBA                                         | QALD system 4                                                                       |
-| 12:25  |                          Xi Yan                                                            | QALD Discussion & Best Presentation and Challenge Winner Award                      |
+| 12:15  |                          Xi Yan                                                            | QALD Discussion & Best Presentation and Challenge Winner Award                      |
