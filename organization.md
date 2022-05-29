@@ -37,5 +37,3 @@ M.Sc. [Junbo Huang](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/junbo-
 MA.   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
 
 M.Sc.   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
-
-Prof. Dr. Andreas Both   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
