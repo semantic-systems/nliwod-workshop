@@ -16,6 +16,11 @@ Prof. [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-
 
 Prof. [Axel-Cyrille Ngonga Ngomo](http://dice-research.org) (M) heads the DICE and AKSW research groups in Paderborn and Leipzig, where he works on topics such as Information Extraction, Question Answering and Keyword-Based Search with a strong focus on structured data. Axel has co-organized the QALD workshops as well as the BioASQ challenges. He has participated in the creation of the corresponding benchmark datasets and also co-organized the OKBQA Hackathon. He has lead the HOBBIT H2020 project on benchmarking Linked Data as well as the DIESEL and QAMEL projects on distributed search and question answering on mobile devices. Axel has served on the senior program/organizing committees of (Semantic)Web and AI confer-ences including ESWC, ISWC, WWW, LREC, and AAAI.
 
+M. Sc. [Aleksandr Perevalov](https://www.hs-anhalt.de/hochschule-anhalt/service/personenverzeichnis/aleksandr-perevalov.html) studied Software Engineering and Data Science in Russia and Germany (until 2020). His scientific focus is in the field of Machine Learning, Data Science and Question Answering.
+In addition to his practical experience, his profile is characterized by multiple competition participations (including TOP-9 Data Science Cup, TOP-10 Russian Artificial Intelligence forum, TOP-3 SMART challenge).
+Since 2021, he has been working in the project "Question Answering 4 Chatbots" (QA4CB) together with ITZBund, researching new methods to increase the quality and usability of Question Answering.
+
+Prof. [Andreas Both](http://www.andreasboth.de/en) studied computer science at the Martin Luther University Halle-Wittenberg and received his doctorate in the research field of software engineering (service-oriented architectures and component systems). He held leading positions in research and development units in various companies in the fields of e-commerce and business software and was responsible for technology-oriented innovations in in-house development, with partners, and in numerous (international) R&D projects. Andreas Both was Professor of Web Engineering at Anhalt University of Applied Sciences from 2018 to 2022. In 2022, he followed a call to the HTWK Leipzig. In addition, he has been Head of Research at DATEV eG since 2018. He dedicates his research work to the interface between software engineering and data science, especially in the context of web technologies and applications. 
 
 Dr. [Seid Yimam Muhie](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam.html) (M; Postdoctoral researcher, Language Technology group, Hamburg)
 
@@ -30,3 +35,7 @@ M.Sc. [Angelie Kraft](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/ange
 M.Sc. [Junbo Huang](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/junbo-huang.html) (M; Ph.D. student, Semantic Systems, Hamburg University)
 
 MA.   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
+
+M.Sc.   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
+
+Prof. Dr. Andreas Both   [Xi Yan](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/xi-yan.html) (F; Ph.D. student, Semantic Systems, Hamburg University)
