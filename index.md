@@ -31,3 +31,7 @@ By attending a classical workshop combined with a challenge composed of several 
 ### Unified Timeline:
 
 See [https://www.nliwod.org/important-dates](https://www.nliwod.org/important-dates)
+
+### Slides and Award:
+Here is the slide which includes system evaluation scores and paper award on NLIWoD workshop during ESWC2022:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmhBseJRSfoifRmX2YiwQgWoYhczMF5EpDa2DIenkp3UhMWx3bkH5EIQqsBnZD31ffF9lsgnA14-mv/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
