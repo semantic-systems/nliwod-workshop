@@ -1,5 +1,26 @@
 <!-- start custom head snippets -->
 
+<!-- NFDI4DS Button-->
+<div class="nfdi4ds-banner" data-variant="button" data-button-color="dark" data-menu-color="light"></div>
+<script>
+    (function (w, d, s, o, f, js, fjs) {
+        w['nfdi4dsWidget'] = o;
+        w[o] =
+            w[o] ||
+            function () {
+                (w[o].q = w[o].q || []).push(arguments);
+            };
+        (js = d.createElement(s)),
+            (fjs = d.getElementsByTagName(s)[0]);
+        js.id = o;
+        js.src = f;
+        js.async = 1;
+        fjs.parentNode.insertBefore(js, fjs);
+    })(window, document, 'script', 'nfdi4ds', 'https://tibhannover.gitlab.io/nfdi4ds/nfdi4ds-widget/widget.js');
+    nfdi4ds('widget');
+</script>
+<!-- End NFDI4DS Button -->
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
