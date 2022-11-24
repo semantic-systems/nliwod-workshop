@@ -4,28 +4,6 @@ header:
     - label: "Co-located with the 2022 European Semantic Web Conference (ESWC)"
       url: "https://2022.eswc-conferences.org/"
 title: The 7th Natural Language Interfaces for the Web of Data (NLIWoD) Workshop
-
-
-<!-- NFDI4DS Button-->
-<div class="nfdi4ds-banner" data-variant="button" data-button-color="light" data-menu-color="light"></div>
-<script>
-    (function (w, d, s, o, f, js, fjs) {
-        w['nfdi4dsWidget'] = o;
-        w[o] =
-            w[o] ||
-            function () {
-                (w[o].q = w[o].q || []).push(arguments);
-            };
-        (js = d.createElement(s)),
-            (fjs = d.getElementsByTagName(s)[0]);
-        js.id = o;
-        js.src = f;
-        js.async = 1;
-        fjs.parentNode.insertBefore(js, fjs);
-    })(window, document, 'script', 'nfdi4ds', 'https://tibhannover.gitlab.io/nfdi4ds/nfdi4ds-widget/widget.js');
-    nfdi4ds('widget');
-</script>
-<!-- End NFDI4DS Button -->
 ---
 
 
