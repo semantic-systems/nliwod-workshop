@@ -5,7 +5,9 @@ header:
       url: "https://2022.eswc-conferences.org/"
 title: The 7th Natural Language Interfaces for the Web of Data (NLIWoD) Workshop
 ---
+### Proceedings
 
+Proceedings are now availabe at https://ceur-ws.org/Vol-3196/
 
 ### Goal
 
